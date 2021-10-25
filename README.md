@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sambessey
 - 👀 I’m interested in Javascript, Redis Pub/Sub, and doing cool things with WebSockets
-- 🌱 I’m currently learning how to utilise Python for ML, Rust, Apache Kafka
+- 🌱 I’m currently learning how to utilise Python for ML & Apache Kafka
 - 🔗 Find me on [LinkedIn](https://www.linkedin.com/in/sambessey/)
 
 <!---
