@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sambessey
-- 👀 I'm proficient in TypeScript, Redis (As a datastore and for Pub/Sub), Firebase (As a datastore and live data retrieval), and using Websockets
+- 👀 I'm proficient in TypeScript, Redis, Firebase (As a datastore and live data retrieval), and using Websockets
 - 🧩 I like dabbling with Chrome extensions to help SE's (like me!) do better demos
 - 🐍 I know enough Python to be (slightly) dangerous
 - 🌱 I’m currently building a series of articles and tutorials on RAG, MCP, and agents with full code examples, publishing weekly
