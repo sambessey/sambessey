@@ -28,7 +28,7 @@
   ## Find me
 
   - 🔗 [LinkedIn](https://www.linkedin.com/in/sambessey/)
-  - 🌐 [sambessey.com](https://sambessey-com.vercel.app)
+  - 🌐 [sambessey.com](https://sambessey.com)
 
 <!---
 sambessey/sambessey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
