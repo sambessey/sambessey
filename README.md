@@ -5,8 +5,11 @@
   ## What I do
   
 🛠️ I build mostly in **TypeScript** and **Next.js** or **Svelte**.
+
 🧩 I make **Chrome extensions** to help SEs (like me) run better demos.
+
 📡 I recently built a real-time **clientelling dashboard** powered by Amperity CDP with live customer data, segment tracking.
+
 🐍 I know enough Python to be (slightly) dangerous.
 
   ## What I'm working on
