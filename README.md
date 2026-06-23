@@ -25,10 +25,6 @@
 
 🔭 Currently wrapping my head around AI vision models. How to efficiently tune a small model to pick aesthetically pleasing aerial shots from a large body of work based on geolocation, time of day, and altitude.
 
-  ## How I think about technical writing
-
-  I spend a lot of my time explaining technical features to non-technical people. My articles are my working notes on how I explain these concepts to others: More practical diagrams and code, fewer buzzwords.
-
   ## Find me
 
 🔗 [LinkedIn](https://www.linkedin.com/in/sambessey/)
