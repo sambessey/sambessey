@@ -21,7 +21,7 @@
 
 📖 Maintaining a plain-English **[AI glossary](https://sambessey.com/glossary)** for the concepts I find myself explaining most often.
 
-🧠 Recently completed work on a **[Fine Tuning project](https://www.sambessey.com/articles/fine-tuning)** that turns mundane life stories into LinkedIn-brained posts to help non-experts understand LLM fine-tuning.
+🧠 Recently completed work on a **[Fine Tuning project](https://www.sambessey.com/articles/fine-tuning)** that turns mundane life stories into unhinged LinkedIn-brained posts to help non-experts understand LLM fine-tuning.
 
 🔭 Currently wrapping my head around AI vision models. How to efficiently tune a small model to pick aesthetically pleasing aerial shots from a large body of work based on geolocation, time of day, and altitude.
 
